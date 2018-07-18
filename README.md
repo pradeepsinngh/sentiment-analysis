@@ -1,2 +1,2 @@
 # sentiment-analysis
-An end-to-end sentiment classification system from scratch.
+An end-to-end sentiment classification system from scratch using Naive bayes classifier and RNN.
